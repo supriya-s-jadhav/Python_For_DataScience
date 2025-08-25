@@ -1,4 +1,15 @@
 # Python_For_DataScience
+```
+AUTHOR: Supriya Jadhav
+
+Version: 1.0
+
+Date: August 2025
+
+© 2025 Supriya Sampat Jadhav. All rights reserved.
+Unauthorized copying, use, or redistribution of this code is prohibited.
+```
+
 This repository contains Python code, and projects tailored for Data Science applications. It covers core Python programming concepts, libraries, and practical examples commonly used in data analysis, machine learning, and data visualization.
 The repository is designed for beginners to intermediate learners who want to build a strong foundation in Python for Data Science.
 
